@@ -1,6 +1,6 @@
 OpenSkin Designer
 =================
-![GitHub release](https://img.shields.io/badge/release-v5.0.0.7-blue)
+![GitHub release](https://img.shields.io/badge/release-v5.1.0.0-blue)
 [![.NET](https://img.shields.io/badge/.NET-10.0-purple)](https://dotnet.microsoft.com/)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-0078D4)](https://github.com/dotnet/winforms)
 [![C#](https://img.shields.io/badge/Language-C%23-239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
