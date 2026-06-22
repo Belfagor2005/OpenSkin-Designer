@@ -118,7 +118,7 @@ Source/
 
 ### Changelog
 
-### Version 5.1.0.0 – 2026-06-22
+### Version 5.1.0.0 by Lululla – 2026-06-22
 
 **Added:**
 - New **Skin Information** module:
@@ -145,9 +145,20 @@ Source/
   - License status displayed in Tools → License
   - Click on status label to show license details
 
+- **License status**
+  -displayed in `About` window (Premium/Free with color indicator).
+
+- **Automatic backup**
+  - of `settings.json` and `license.lic` during update, preserving user preferences and license activation.
+
+- **Complete Help section**
+  -(`fHelp`) with all keyboard shortcuts, premium features, and support links – now includes application logo.
+
+
 **Improved:**
 - Skin parser now resolves nested includes (supports `filename`, `file`, `src`, `source`, `href`)
 - Better error handling for missing include files
+- Update system now safely backs up user data before launching the installer.
 - UI layout optimized for skin information display
 - `fOpen` now hides network controls when not premium
 - `fTelnet` and `fTelnetConfig` are now protected by premium license
@@ -160,6 +171,18 @@ Source/
 - `fPreferences` visibility issues (completely rebuilt)
 - Fallback color not persisting between sessions
 - Premium menu items not updating after activation
+- License menu items now update correctly after activation.
+- Language selection and UI translations are more reliable.
+
+## 🔐 Premium License
+
+Some features require a premium license:
+- **Telnet Commands**
+- **Import/Export Skin** from/to Enigma2
+- **Skin Diagnostics** (advanced analysis)
+
+Activate via `Tools → License`.  
+Contact **Lululla** at ekekaz@gmail.com for activation.
 
 
 ### MOD v5.0.0.7 by Lululla
