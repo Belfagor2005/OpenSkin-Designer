@@ -1,0 +1,7 @@
+Release/
+Source/e2skinner2/Scintilla/ScintillaNET/obj/
+Source/e2skinner2/Scintilla/bin/
+Source/e2skinner2/bin/
+Source/e2skinner2/obj/
+*.suo
+/Source/.vs
