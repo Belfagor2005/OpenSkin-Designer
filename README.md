@@ -1,15 +1,28 @@
-OpenSkin Designer
-=================
+<h1 align="center">OpenSkin Designer
+
 ![GitHub release](https://img.shields.io/badge/release-v5.1.0.0-blue)
 [![.NET](https://img.shields.io/badge/.NET-10.0-purple)](https://dotnet.microsoft.com/)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-0078D4)](https://github.com/dotnet/winforms)
 [![C#](https://img.shields.io/badge/Language-C%23-239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+</h1>
 
-![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
-[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://ko-fi.com/lululla)
-[![Donate](https://img.shields.io/badge/_-Donate-green.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://paypal.me/belfagor2005)
+<p align="center">
+  <a href="https://github.com/Belfagor2005">
+    <img src="https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet" alt="Visitors">
+  </a>
+</p>
 
-OpenSkin Designer MOD by @odem2014 [popking159](https://github.com/popking159) and [Lululla](https://github.com/Belfagor2005) 
+<p align="center">
+  <a href="https://ko-fi.com/lululla">
+    <img src="https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge" alt="Donate via Ko-fi">
+  </a>
+  <a href="https://paypal.me/belfagor2005">
+    <img src="https://img.shields.io/badge/_-Donate-green.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge" alt="Donate via PayPal">
+  </a>
+</p>
+
+
+### OpenSkin Designer MOD by @odem2014 [popking159](https://github.com/popking159) and [Lululla](https://github.com/Belfagor2005) **
 
 is based on OpenSkin Designer, a further development of [e2skinner](https://code.google.com/p/e2skinner2/). 
 
